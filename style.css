@@ -1,0 +1,17 @@
+form{
+    font-family: Georgia;
+    font-size: 15px ;
+    color: blue;
+    background: paleturquoise;
+    padding: 30px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 50px;
+    width: 600px;
+}
+h1{
+ text-align: center;
+ color: cornflowerblue;
+}
+
+
